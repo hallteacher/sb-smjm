@@ -1,0 +1,7 @@
+# 临时文件
+*.tmp
+*.log
+__pycache__/
+# 一次性部署/推送辅助脚本（含敏感信息，绝不入库）
+*_tmp.sh
+LightsailDefaultKey-ap-southeast-2.pem
